@@ -1,2 +1,2 @@
 # /reports directory
-RMarkdown files to create reports can be saved here.
+Reports, table output, and RMarkdown files to create them can be saved here.
