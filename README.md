@@ -6,7 +6,6 @@ Template for GitHub repository for CorEvitas Biostatistical query projects
 ```
 Template_Registry_Query/
 ├── data/
-│   ├── README.md
 │   └── README.md
 ├── figs/
 │   └── README.md
