@@ -1,5 +1,5 @@
 # Template_Registry_Query
-Template for GitHub repository for CorEvitas Biostatistical query projects
+Template GitHub repository for CorEvitas Biostatistical query projects
 
 ## File Tree  
 
