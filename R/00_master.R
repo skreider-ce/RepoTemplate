@@ -1,8 +1,8 @@
 #-----------------------------------------------------------
-# Program: 00_master.R
+# Program: 00_main.R
 # Author:  Ryan Harrison
 # Date:    2021-10-19
-# Purpose: Master File for {REG-###} Query
+# Purpose: Main File for {REG-###} Query
 #-----------------------------------------------------------
 
 #----------------
