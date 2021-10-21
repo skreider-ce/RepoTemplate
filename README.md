@@ -12,7 +12,7 @@ Template_Registry_Query/
 ├── reports/
 │   └── README.md
 ├── R/
-│   ├── 00_master.R
+│   ├── 00_main.R
 │   └── README.md
 ├── Template_Registry_Query.Rproj
 └── README.md
