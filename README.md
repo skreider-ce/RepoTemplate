@@ -14,6 +14,6 @@ Template_Registry_Query/
 ├── R/
 │   ├── 00_main.R
 │   └── README.md
-├── Template_Registry_Query.Rproj
+├── .gitignore
 └── README.md
 ```
