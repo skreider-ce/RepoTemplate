@@ -35,7 +35,7 @@ writeLines(capture.output(sessionInfo()), "sessionInfo.txt")
 frz_dt <- "2021-11-01"
 
 # Use lubridate to extract  year
-frz_yr <- lubridate::as_date(frz_date) %>% lubridate::year(.)
+frz_yr <- lubridate::as_date(frz_dt) %>% lubridate::year(.)
 
 #-----------------
 # Set Directories
